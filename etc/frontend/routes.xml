@@ -3,9 +3,9 @@
     <!--Use router 'standard' for frontend route-->
     <router id="standard">
         <!--Define a custom route with id and frontName-->
-        <route frontName="helloworld" id="helloworld">
+        <route frontName="module_one" id="module_one">
             <!--The module which this route match to-->
-            <module name="Mageplaza_HelloWorld"/>
+            <module name="Amin_ModuleOne"/>
         </route>
     </router>
 </config>
